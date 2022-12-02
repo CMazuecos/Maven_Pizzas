@@ -19,5 +19,5 @@ Este programa consistirá en que el programa hará un informe sobre los ficheros
 - Después, con los datos ya leídos se organizarán los pedidos por semanas.
 - Cuando se organizan los pedidos por semanas, se ve que pizza contiene cada pedido.
 - De cada pizza, se sacan los ingredientes de cada pizza y se van añadiendo a los pedidos de cada semana.
-- Cuando ya se tiene la recomendación hecha, se escirbe en un archivo csv y se muestra por pantalla la compra recomendada para cada semana.
+- Cuando ya se tiene la recomendación hecha, se escirbe en un archivo csv y se muestra por pantalla la compra recomendada para cada semana.  
 Para más aclaraciones, código explicado en el texto.
